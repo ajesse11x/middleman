@@ -23,7 +23,7 @@ gem 'coffee-script', '~> 2.2', require: false
 gem 'haml', '>= 4.0.5', require: false
 gem 'kramdown', '~> 1.2', require: false
 gem 'liquid', '>= 3.0', require: false
-gem 'redcarpet', '>= 3.1', require: false
+gem 'redcarpet', '>= 3.5.1', require: false
 gem 'sassc', '~> 1.10', require: false
 gem 'sinatra', '>= 2.0.0.beta2', require: false
 gem 'slim', '>= 2.0', require: false
