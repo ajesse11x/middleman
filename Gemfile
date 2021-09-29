@@ -34,7 +34,7 @@ gem 'rubydns', '~> 1.0.1', require: false
 
 # To test javascript
 gem 'phantomjs', '~> 2.1.1.0', require: false
-gem 'poltergeist', '~> 1.8', require: false
+gem 'poltergeist', '~> 1.18', '>= 1.18.1', require: false
 
 # For less, note there is no compatible JS runtime for windows
 gem 'therubyracer', '~> 0.12.3', platforms: :ruby
