@@ -25,7 +25,7 @@ gem 'kramdown', '~> 1.2', require: false
 gem 'liquid', '>= 3.0', require: false
 gem 'redcarpet', '>= 3.1', require: false
 gem 'sassc', '~> 1.10', require: false
-gem 'sinatra', '>= 2.0.0.beta2', require: false
+gem 'sinatra', '>= 2.0.3', require: false
 gem 'slim', '>= 2.0', require: false
 gem 'stylus', '>= 1.0', require: false
 
@@ -34,7 +34,7 @@ gem 'rubydns', '~> 1.0.1', require: false
 
 # To test javascript
 gem 'phantomjs', '~> 2.1.1.0', require: false
-gem 'poltergeist', '~> 1.8', require: false
+gem 'poltergeist', '~> 1.18', '>= 1.18.1', require: false
 
 # For less, note there is no compatible JS runtime for windows
 gem 'therubyracer', '~> 0.12.3', platforms: :ruby
